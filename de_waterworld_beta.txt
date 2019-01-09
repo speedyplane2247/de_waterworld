@@ -19,3 +19,8 @@ v1.1.1
 + Fixed some shadows and optimized rooms
 + Added radar spots for the bombsites and spawns.
 + Minor gameplay changes / map detail
+v1.1.2
++ Added A/B site decals
++ Added better shadows
++ Added new lighting in rooms
++ Connected CT tunnels and the right arm of alt-mid into a single tunnel.
