@@ -1,0 +1,8 @@
+CHANGELOG!
+
++ Base Version
+
+
+ABOUT!
+
+This is the original de_waterworld, a hostage variant. The defusal mode takes off the design and a lot of the buildings are changed, with different clippings.
