@@ -1,5 +1,6 @@
 ! CHANGELOG (relative to previous version, for 1.0 of cs_waterworld)
 
+v1.1
 * Changed from Hostage to Defusal Gamemode
 * Fixed texture consistency around the map
 + Room brushes for building
@@ -13,3 +14,8 @@
 + Added more complex rooms to B site to allow for more complex strategies and camping spots.
 + Added more spawns for both sides, allowing up to a 16v16.
 + Minor gameplay changes changing the map from being extremely T sided.
+v1.1.1
+* Fixed some more textures inconsistencies around the map.
++ Fixed some shadows and optimized rooms
++ Added radar spots for the bombsites and spawns.
++ Minor gameplay changes / map detail
