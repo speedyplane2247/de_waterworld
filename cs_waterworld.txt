@@ -1,5 +1,6 @@
 CHANGELOG!
 
+v1.0
 + Base Version
 
 v1.1
@@ -12,5 +13,13 @@ v1.1
 + Added cover to mid for Ts to hide in.
 * Changed the timings from CT mid, allowing more than one player at a time to access mid quicker, and help them win fights.
 ABOUT!
+
+v1.1.1
+
++ Added better shadow effects
+
+V1.1.2
+
+* Removed the maze as it was causing a lot of problems including an overpowered exploit where you could access outside of the map and survive the round. (Overpowered for CTs)
 
 This is the original de_waterworld, a hostage variant. The defusal mode takes off the design and a lot of the buildings are changed, with different clippings.
