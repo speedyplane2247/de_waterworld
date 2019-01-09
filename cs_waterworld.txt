@@ -2,7 +2,15 @@ CHANGELOG!
 
 + Base Version
 
+v1.1
 
+* Fixed texture consistancy throughout the map.
++ Added shadow clippings generating shadows and other lighting effects.
++ Added radar dots for the hostages and the rescue zone.
+- Removed a bug where players could enter the skybox through the Maze Easter Egg
++ Added teleport triggers to the maze to prevent the skybox exploits from occuring (thanks notawaller!)
++ Added cover to mid for Ts to hide in.
+* Changed the timings from CT mid, allowing more than one player at a time to access mid quicker, and help them win fights.
 ABOUT!
 
 This is the original de_waterworld, a hostage variant. The defusal mode takes off the design and a lot of the buildings are changed, with different clippings.
