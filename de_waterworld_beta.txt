@@ -1,0 +1,15 @@
+! CHANGELOG (relative to previous version, for 1.0 of cs_waterworld)
+
+* Changed from Hostage to Defusal Gamemode
+* Fixed texture consistency around the map
++ Room brushes for building
++ More cover around the A bombsite
+- The maze easter egg, to promote competitive play
++ Added a barrier from T-side to the B bombsite to make the map more balanced
++ Changed CT mid timing to help the CTs defend mid
++ Added cover for the Ts from the CT attacks
++ Widened the doorway to mid from CT, allowing for more than 1 player at time to cross.
+- Removed the doorway to Long, forcing the Ts to make a different route.
++ Added more complex rooms to B site to allow for more complex strategies and camping spots.
++ Added more spawns for both sides, allowing up to a 16v16.
++ Minor gameplay changes changing the map from being extremely T sided.
